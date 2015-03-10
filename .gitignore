@@ -1,0 +1,3 @@
+# exclude hosts
+ansible.cfg
+ansible_hosts

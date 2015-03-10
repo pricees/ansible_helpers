@@ -1,0 +1,4 @@
+[default]
+hostfile = ./ansible_hosts
+private_key_file = ~/.ssh/private_key.pem
+remote_user = deploy_boy
